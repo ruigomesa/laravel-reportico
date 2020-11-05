@@ -9,8 +9,8 @@
     ],
     "license": "GPL-3.0",
     "require": {
-        "php": ">=7.2.0",
-        "illuminate/support": "~5.8"
+        "php": ">=7.2.0"
+ 
     },
     "autoload": {
         "classmap": [
